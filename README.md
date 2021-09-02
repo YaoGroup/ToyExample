@@ -6,4 +6,6 @@ Add your message below
 ## Messages:
 
 Ray: Welcome! Hope the tutorials are clear and helpful!
+
 Niall: Would recommend putting cd .. into the manual, as well as moving up more than 1 layer!
+
