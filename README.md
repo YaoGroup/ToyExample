@@ -12,3 +12,5 @@ Niall: Would recommend putting cd .. into the manual, as well as moving up more 
 Josh: Thank you for the tutorials, Ray!
 
 Yuno: This was very helpful, thank you!
+
+Olivia: Niall's notes get me here!
