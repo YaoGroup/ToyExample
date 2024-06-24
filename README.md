@@ -17,3 +17,5 @@ Yuno: This was very helpful, thank you!
 Olivia: Niall's notes get me here!
 
 Jakin: Testing github changes!
+
+Erik: These notes were helpful!
